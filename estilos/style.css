@@ -45,8 +45,9 @@ header {
     padding: 10px;
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    min-height: 150px;
     display: grid;
+    align-items: center;
+    min-height: 140px;
 }
 
 header>h1, header>p {
